@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning sprinkler system 
+- 🌱 I’m currently learning github
 
 <!--
 **shams-in/shams-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
