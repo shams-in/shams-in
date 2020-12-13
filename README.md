@@ -2,12 +2,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shams-in&show_icons=true&count_private=true&hide=contribs&theme=vue-dark)
 
-![My Internet Speed](https://bytecode.ca/graph/dashboard-solo/snapshot/TdGajx3AK5o3T48crcWh2Jy7tEcyv3kW?orgId=0&panelId=2)
+![My Internet Speed](https://shams.in/internetspeed)
 
-- 🌱 I’m currently learning github
+<!-- - 🌱 I’m currently learning github -->
 
 <!--
-**shams-in/shams-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shams-in/shams-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
