@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shams-in&show_icons=true&count_private=true&hide=contribs&theme=vue-dark)
 
-![My Internet Speed](https://shams.in/internetspeed)
+[My Internet Speed](https://shams.in/internetspeed)
 
 <!-- - 🌱 I’m currently learning github -->
 
