@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">
+<img src="https://www.instagram.com/images/instagram/xig/homepage/screenshots/screenshot1-2x.png">
