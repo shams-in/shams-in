@@ -1,1 +1,1 @@
-<img src="https://www.instagram.com/images/instagram/xig/homepage/screenshots/screenshot1-2x.png">
+<img src="https://www.instagram.com/images/instagram/xig/homepage/screenshots/screenshot1-2x.png" alt="instagram" height="150">
